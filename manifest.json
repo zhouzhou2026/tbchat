@@ -1,6 +1,6 @@
 {
-    "name": "b_wallet",
-    "short_name": "b_wallet",
+    "name": "TBPay",
+    "short_name": "TBPay",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
